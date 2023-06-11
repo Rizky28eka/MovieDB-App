@@ -1,16 +1,18 @@
-# flutter_moviedb
+# Slicing ClinicApp-UI 👨‍⚕️💉
 
-A new Flutter project.
+Here are the updated screenshots for the Flutter MovieDB program:
 
-## Getting Started
+<div align="center">
+  <img src="https://i.postimg.cc/J4Hrw44v/Jepretan-Layar-2023-06-11-pukul-10-54-39.png" alt="Screenshot 1" width="250">
+  <img src="https://i.postimg.cc/MpkWz2nT/Jepretan-Layar-2023-06-11-pukul-10-54-47.png" alt="Screenshot 2" width="250">
+  <img src="https://i.postimg.cc/dV8J1HC9/Jepretan-Layar-2023-06-11-pukul-10-55-31.png" alt="Screenshot 3" width="250">
+</div>
+The Flutter MovieDB program is a mobile application that allows users to browse and explore movies. It utilizes the MovieDB API to fetch movie data such as titles, release dates, ratings, and posters. Here's a description of the app's features and functionality based on the screenshots:
 
-This project is a starting point for a Flutter application.
+Screenshot 1: This screen displays a list of movies with their respective posters. Users can scroll through the list to discover different movies.
 
-A few resources to get you started if this is your first Flutter project:
+Screenshot 2: Tapping on a movie poster in the list leads to a detailed view of the movie. This screen shows additional information about the movie, including the title, release date, and average rating. It also provides a brief overview of the movie's plot.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Screenshot 3: Users have the option to search for specific movies using the search bar at the top of the screen. Entering a query will display matching movies in real-time as the user types.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Overall, the Flutter MovieDB program provides a visually appealing interface for users to explore movies and access information about them. It offers an intuitive search feature, allowing users to find movies based on their preferences.
